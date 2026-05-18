@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hetvi dudhela</h1>
-<h3 align="center">Bytes and Bugs: A Second-Year BCA Student Programming Passion</h3>
+
 
 
 <img align="left" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_800/0/1693911768596?e=1708560000&v=beta&t=Tue5IlOSCF6tkNIzGrdmLKXF0tSGw6YYhC-Gxfki3kg">
